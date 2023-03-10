@@ -1,4 +1,4 @@
-# Awesome-Driving
+# Accident Anticipation
 A curated list of accident anticipation papers and resources.
 
 ## YEAR 2022
