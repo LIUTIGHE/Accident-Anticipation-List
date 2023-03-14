@@ -14,4 +14,4 @@ A curated list of accident anticipation papers and resources.
 - **CVPR** [Anticipating Traffic Accidents with Adaptive Loss and Large-scale Incident DB.](https://openaccess.thecvf.com/content_cvpr_2018/papers/Suzuki_Anticipating_Traffic_Accidents_CVPR_2018_paper.pdf) [code]
 
 ## YEAR 2016
-- **ACCV** [Anticipating Accidents in Dashcam Videos.](https://link.springer.com/chapter/10.1007/978-3-319-54190-7_9) [[code]](http://aliensunmin.github.io/project/dashcam/)
+- **ACCV** [Anticipating Accidents in Dashcam Videos.](https://link.springer.com/chapter/10.1007/978-3-319-54190-7_9) [[project]](http://aliensunmin.github.io/project/dashcam/) [[code]](https://github.com/smallcorgi/Anticipating-Accidents)
