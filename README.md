@@ -15,3 +15,8 @@ A curated list of accident anticipation papers and resources.
 
 ## YEAR 2016
 - **ACCV** [Anticipating Accidents in Dashcam Videos.](https://link.springer.com/chapter/10.1007/978-3-319-54190-7_9) [[project]](http://aliensunmin.github.io/project/dashcam/) [[code]](https://github.com/smallcorgi/Anticipating-Accidents)
+
+## Dataset
+- **DADA-2000** [DADA: Driver Attention Prediction in Driving Accident Scenarios.](https://arxiv.org/pdf/1912.12148.pdf) [[project]](https://github.com/JWFangit/LOTVS-DADA)
+
+- **DoTA** [When, Where, and What? A New Dataset for Anomaly Detection in Driving Videos](https://arxiv.org/pdf/2004.03044.pdf) [[code]](https://github.com/MoonBlvd/Detection-of-Traffic-Anomaly)
